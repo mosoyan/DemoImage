@@ -1,0 +1,6 @@
+framework module DemoImage {
+  umbrella header "DemoImage.h"
+
+  export *
+  module * { export * }
+}
